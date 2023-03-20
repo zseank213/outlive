@@ -1,0 +1,85 @@
+{
+  "data": [
+    {
+      "name": "Basic",
+      "data": [
+        {
+          "image": "https://cdn.idntimes.com/content-images/community/2022/06/fromandroid-7d61dd5c71e3bfcd7b61d3ec2eb7eeb2_600x400.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "BASIC KNOWLEDGE"
+        },
+        {
+          "image": "https://halonusa.com/wp-content/uploads/2022/03/Eiger-Adventure-Barner-Halonusa-Ade-Yuandha@Ade_Yuandha..jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "BASIC KNOWLEDGE"
+        }
+      ],
+      "isActive": false
+    },
+    {
+      "name": "Pro",
+      "data": [
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/North_face.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "PRO KNOWLEDGE"
+        },
+        {
+          "image": "https://halonusa.com/wp-content/uploads/2022/03/Eiger-Adventure-Barner-Halonusa-Ade-Yuandha@Ade_Yuandha..jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "PRO KNOWLEDGE"
+        }
+      ],
+      "isActive": false
+    },
+    {
+      "name": "Survival",
+      "data": [
+        {
+          "image": "https://cdn.idntimes.com/content-images/community/2022/06/fromandroid-7d61dd5c71e3bfcd7b61d3ec2eb7eeb2_600x400.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "SURVIVAL KNOWLEDGE"
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/North_face.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "SURVIVAL KNOWLEDGE"
+        }
+      ],
+      "isActive": false
+    },
+    {
+      "name": "Bushcraft",
+      "data": [
+        {
+          "image": "https://cdn.idntimes.com/content-images/community/2022/06/fromandroid-7d61dd5c71e3bfcd7b61d3ec2eb7eeb2_600x400.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "BUSHCRAFT KNOWLEDGE"
+        },
+        {
+          "image": "https://cdn.idntimes.com/content-images/community/2022/06/fromandroid-7d61dd5c71e3bfcd7b61d3ec2eb7eeb2_600x400.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "BUSHCRAFT KNOWLEDGE"
+        }
+      ],
+      "isActive": false
+    },
+    {
+      "name": "Emergency",
+      "data": [
+        {
+          "image": "https://cdn.idntimes.com/content-images/community/2022/06/fromandroid-7d61dd5c71e3bfcd7b61d3ec2eb7eeb2_600x400.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "EMERGENCY KNOWLEDGE"
+        },
+        {
+          "image": "https://cdn.idntimes.com/content-images/community/2022/06/fromandroid-7d61dd5c71e3bfcd7b61d3ec2eb7eeb2_600x400.jpg",
+          "title": "Teknik dasar menyiapkan perlengkapan dasar",
+          "subtitle": "EMERGENCY KNOWLEDGE"
+        }
+      ],
+      "isActive": false
+    }
+  ]
+}
+
