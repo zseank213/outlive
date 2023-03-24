@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "tittle": "Seberapa paham kamu tentang basic pendakian gunung?",
+      "option": [
+        {
+          "data": "1",
+          "isActive": false
+        },
+        {
+          "data": "2",
+          "isActive": false
+        },
+        {
+          "data": "3",
+          "isActive": false
+        },
+        {
+          "data": "4",
+          "isActive": false
+        },
+        {
+          "data": "5",
+          "isActive": false
+        }
+      ]
+    }
+  ]
+}

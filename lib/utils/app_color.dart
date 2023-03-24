@@ -22,6 +22,7 @@ const greyPrimary = const Color(0xffE5E5E5);
 
 //secondary
 const secondaryGrey = const Color(0xffE0DEDE);
+const secondaryPrimary = const Color(0xffFFF7ED);
 
 //green
 const greenProfit = const Color(0xff4FDE4C);

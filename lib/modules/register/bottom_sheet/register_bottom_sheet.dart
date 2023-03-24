@@ -1,3 +1,4 @@
+import 'package:Eiger/modules/register/widget/register_success_step.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:Eiger/lib.dart';
@@ -32,9 +33,11 @@ class _RegisterBottomSheetState extends State<RegisterBottomSheet> {
           RegisterEmailStep(
             pageController: pageController,
             callback: (value) {
-              _emailController.text = value.email ?? "";
               setState(() {
                 isFirstPage = false;
+                // if (value.email != "") {
+                //   _emailController.text = value.email ?? "";
+                // }
               });
             },
           ),
@@ -46,6 +49,12 @@ class _RegisterBottomSheetState extends State<RegisterBottomSheet> {
               });
             },
             email: _emailController.text,
+          ),
+          RegisterSuccessStep(
+            pageController: pageController,
+          ),
+          RegisterQuizStep(
+            pageController: pageController,
           ),
         ],
       ),

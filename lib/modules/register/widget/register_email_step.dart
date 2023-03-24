@@ -17,7 +17,10 @@ class RegisterEmailStep extends StatefulWidget {
   State<RegisterEmailStep> createState() => _RegisterEmailStepState();
 }
 
-class _RegisterEmailStepState extends State<RegisterEmailStep> {
+class _RegisterEmailStepState extends State<RegisterEmailStep> with AutomaticKeepAliveClientMixin {
+  @override
+  bool get wantKeepAlive => true;
+  
   final TextEditingController _emailController = TextEditingController();
 
   bool isPassword = true;
